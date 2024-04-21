@@ -17,7 +17,7 @@ In short, we need to show our humans how to play proper games! You want your hum
 
 
 
-## Look up
+- [Look up](games/lookup)
 
 
 Goal: 
