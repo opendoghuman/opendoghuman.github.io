@@ -8,14 +8,28 @@
   <body>
     <nav>
       <a href="/">Home</a>
-      <a href="/blog/">Blog</a>
+      <a href="/games/">Games</a>
+      <a href="/resources/">Resources</a>
     </nav>
     <h1>{{ page.title }}</h1>
     <section>
       {{ content }}
     </section>
-    <footer>
-      &copy; to me
+    <footer  >
+        <p>Github</p>
+        <p><small>Website by <a href="https://mastodon.social/@mtxvp" target="_blank">@mtxvp</a> </small></p>
+        <p>
+            <a href="{{ blog_canonical_url}}/feed.xml" target="_blank" ><img src="/media/icons/rss-48.png" width="32"/></a> |
+            <a href="https://mastodon.social/@opendoghuman" target="_blank" ><img src="/media/icons/mastodon-48.png" width="32"/></a> |
+            <a href="https://x.com/opendoghuman" target="_blank" ><img src="/media/icons/twitterx-50.png" width="32"/></a> |
+            <a href="https://www.facebook.com/opendoghuman" target="_blank" ><img src="/media/icons/facebook-48.png" width="32"/></a> |
+            <a href="https://bsky.app/profile/opendoghuman.bsky.social" target="_blank" >
+                <svg fill="none" viewBox="0 0 64 57" style="width: 30px; height: 27.9375px;"><defs><linearGradient x1="0" y1="0" x2="0" y2="1" id="sky"><stop offset="0" stop-color="#0A7AFF" stop-opacity="1"></stop><stop offset="1" stop-color="#59B9FF" stop-opacity="1"></stop></linearGradient></defs><path fill="url(#sky)" d="M13.873 3.805C21.21 9.332 29.103 20.537 32 26.55v15.882c0-.338-.13.044-.41.867-1.512 4.456-7.418 21.847-20.923 7.944-7.111-7.32-3.819-14.64 9.125-16.85-7.405 1.264-15.73-.825-18.014-9.015C1.12 23.022 0 8.51 0 6.55 0-3.268 8.579-.182 13.873 3.805ZM50.127 3.805C42.79 9.332 34.897 20.537 32 26.55v15.882c0-.338.13.044.41.867 1.512 4.456 7.418 21.847 20.923 7.944 7.111-7.32 3.819-14.64-9.125-16.85 7.405 1.264 15.73-.825 18.014-9.015C62.88 23.022 64 8.51 64 6.55c0-9.818-8.578-6.732-13.873-2.745Z"></path></svg>
+            </a> |
+            <a href="https://www.reddit.com/r/opendoghuman/" target="_blank" ><img src="/media/icons/reddit-48.png" width="32"/></a> 
+        </p>
+        <p><small><a href="#">Back to top</a></small></p>
     </footer>
+      
   </body>
 </html>
