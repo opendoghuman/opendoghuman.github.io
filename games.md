@@ -15,12 +15,5 @@ In short, we need to show our humans how to play proper games! You want your hum
 - Olfactory function has remarkably low development in your human's brain, unlike ours - where it takes almost 40% (translation: humans have near zero ability to tell how many dogs were near this pole)
 
 
-
-
+## Game List
 - [Look up](games/lookup)
-
-
-Goal: 
-
-- Get your human off the sofa
-- Let them hold your favourite treat
