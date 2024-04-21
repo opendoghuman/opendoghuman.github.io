@@ -1,5 +1,7 @@
+---
 title: Home
 layout: default
+---
 
 Resources for dogs on how to teach your humans responsibility, agility and obedience.
 
