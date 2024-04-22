@@ -1,5 +1,6 @@
-# Look up
-
+---
+title: Look up
+---
 
 Goal:
 
@@ -9,4 +10,4 @@ Steps:
 
 
 ## Source
-- [Review/Synopsis - Laura Donaldson's 'Slow Thinking Is Lifesaving for Dogs' class: The Brainy Canine](https://www.youtube.com/watch?v=l3noLRrwkgU)
+- [Video: Review/Synopsis - Laura Donaldson's 'Slow Thinking Is Lifesaving for Dogs' class: The Brainy Canine](https://www.youtube.com/watch?v=l3noLRrwkgU)
