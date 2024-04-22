@@ -1,5 +1,3 @@
-# Resources
-
 Here are some resources that you can get your human to borrow from their local library or watch on their noisy device that they carry around all the time. 
 
 Even though humans generally have very little understanding of what we dogs are trying to tell them, some of these so called "dog experts" show some hope in educating their fellow bipeds on intricacies of dog/human interaction:
