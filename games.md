@@ -1,5 +1,3 @@
-# Games
-
 We like games! Pulling, running, jumping, catching. 
 
 Humans say they like games too, sort of. What is that strange smelling, flat piece of wood with some rocks on it they keep moving for hours? When I try to pull it down to floor to make it a proper game, for some reason they get really agitated! Rrrrr! Borrrrrring!
