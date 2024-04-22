@@ -1,8 +1,10 @@
 ---
-title: 
+title: Open Dog Humans
 header:
   teaser: media/dog-human.jpg
 ---
+
+![Dog Teaching Human](/media/dog-human.jpg)
 
 ### Resources for dogs on how to teach your humans responsibility, agility and obedience
 
