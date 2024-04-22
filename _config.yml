@@ -1,5 +1,11 @@
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 
 #inimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
