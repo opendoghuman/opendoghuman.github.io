@@ -1,0 +1,5 @@
+main:
+  - title: "Games"
+    url: /games
+  - title: "Resources"
+    url: /resources
