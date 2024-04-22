@@ -16,4 +16,4 @@ In short, we need to show our humans how to play proper games! You want your hum
 
 
 ## Game List
-- [Look up](games/lookup)
+- [Look up](lookup)
