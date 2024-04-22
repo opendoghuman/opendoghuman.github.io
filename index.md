@@ -1,8 +1,3 @@
----
-title: Home
-layout: default
----
-
 Resources for dogs on how to teach your humans responsibility, agility and obedience.
 
 I am Loki, an amateur human trainer, collecting resources, tips and tricks on how to make your biped human a success, so you are not embarassed walking him and showing them off to your friends in the neighbourhood. 
