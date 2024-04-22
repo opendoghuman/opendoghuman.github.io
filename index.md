@@ -1,5 +1,5 @@
 ---
-title: Open Dog Humans
+title: Woof! Beouf! Hejoooo! 
 header:
   teaser: media/dog-human.jpg
 ---
@@ -12,4 +12,4 @@ I am Loki, an amateur human trainer, collecting resources, tips and tricks on ho
 
 This is an open source website hosted on GitHub Pages. Feel free to open a pull request, and my human will be glad to review and update this website.
 
-Woof! Beouf!
+
