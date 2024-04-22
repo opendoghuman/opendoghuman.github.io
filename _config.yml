@@ -170,8 +170,3 @@ whitelist:
   - jemoji
   - jekyll-include-cache
 
-
-      read_time: true
-      comments: # true
-      share: true
-      related: true
