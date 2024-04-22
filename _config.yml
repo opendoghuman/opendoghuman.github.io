@@ -140,9 +140,6 @@ footer:
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit-square"
       url: https://www.reddit.com/r/opendoghuman/
-    - label: "Reddit"
-      icon: "fab fa-fw fa-reddit-square"
-      url: https://www.reddit.com/r/opendoghuman/
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   url: 
