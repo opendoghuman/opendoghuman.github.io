@@ -3,7 +3,7 @@ title: Woof! Beouf! Hejoooo!
 permalink: /about
 ---
 
-![Dog Teaching Human](/media/dog-human.jpg)
+![Dog Teaching Human](/media/dog-human.jpg){: height="250" }
 
 I am Loki, an amateur human trainer, collecting ~~licks~~ links, tips and tricks on how to make your biped human a success, so you are not embarassed walking him out and showing them off to your friends in the neighbourhood. 
 
