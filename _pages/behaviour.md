@@ -3,6 +3,8 @@ title: Behaviour
 permalink: /behaviour
 ---
 
+![Dog Teaching Human](/media/dog-pulling-leash.jpg){: style="max-height:300px;" }
+
 Every now and then our humans exhibit trully puzzling behaviour. Pulling me back when I am trying to put my paws on that pesky squirrel. Shouting at me when I 
 helped them to disect that slipper into parts. Bizzarre creatures indeed!
 

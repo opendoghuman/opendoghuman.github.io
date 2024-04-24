@@ -8,7 +8,7 @@ classes: wide
 ---
 
 
-![Dog Teaching Human](/media/dog-human-play.jpg){: height="250" }
+![Dog Teaching Human](/media/dog-human-play.jpg){: style="max-height:300px;" }
 
 
 We like games! Pulling, running, jumping, catching. 
