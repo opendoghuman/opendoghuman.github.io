@@ -3,6 +3,7 @@ title: Resources
 permalink: /resources
 ---
 
+![](/media/dog-sniffing-books.jpg){: style="max-height:300px;" }
 
 Here are some resources that you can get your human to borrow from their local library or watch on their noisy device that they carry around all the time. I surely hope they can teach your humans be responsible, agile and obedient.
 
