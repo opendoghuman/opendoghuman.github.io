@@ -14,9 +14,10 @@ defaults:
 
 include: ["_pages"]
 collections:
-  - games
-      output: true
-  - behavior
+  games:
+    output: true
+  behavior:
+
 #inimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
