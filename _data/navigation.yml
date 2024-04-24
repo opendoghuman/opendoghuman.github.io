@@ -5,3 +5,5 @@ main:
     url: /behaviour
   - title: "Resources"
     url: /resources
+  - title: "About"
+    url: /about
