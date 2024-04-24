@@ -1,3 +1,7 @@
+# Theme:
+# Jekyll:  
+
+
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 defaults:
@@ -8,10 +12,16 @@ defaults:
     values:
       layout: single
 
+include: ["_pages"]
+collections:
+  - games
+    output: true
+  - behavior
 #inimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-CA"
+timezone                 : "America/Toronto"
 title                    : "Open Dog Human"
 title_separator          : "-"
 subtitle                 : ""
@@ -25,33 +35,6 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
-reCaptcha:
-  siteKey                :
-  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true #, false (default)
@@ -59,7 +42,7 @@ search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -135,7 +118,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/opendoghuman
     - label: "Bluesky"
-      icon: "fab fa-fw fa-brands fa-bluesky"
+      icon: "fab fa-fw bluesky-logo"
       url: https://bsky.app/profile/opendoghuman.bsky.social
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit-square"
@@ -157,6 +140,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - 
 
 # mimic GitHub Pages with --safe
 whitelist:
