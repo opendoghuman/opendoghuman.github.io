@@ -17,7 +17,7 @@ defaults:
       layout: single
   - scope:
       path: ""
-      type: behavior
+      type: behaviour
     values:
       layout: single
 
@@ -25,7 +25,7 @@ defaults:
 collections:
   games:
     output: true
-  behavior:
+  behaviour:
     output: true
 
 include:
