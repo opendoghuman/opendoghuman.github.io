@@ -10,11 +10,23 @@ defaults:
       type: pages
     values:
       layout: single
+  - scope:
+      path: ""
+      type: games
+    values:
+      layout: single
+  - scope:
+      path: ""
+      type: behavior
+    values:
+      layout: single
+
 
 collections:
   games:
     output: true
   behavior:
+    output: true
 
 include:
   - _pages

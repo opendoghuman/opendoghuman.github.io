@@ -1,5 +1,6 @@
 ---
 title: Woof! Beouf! Hejoooo! 
+permalink: /about
 header:
   teaser: media/dog-human.jpg
 ---
