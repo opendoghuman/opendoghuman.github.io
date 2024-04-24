@@ -15,6 +15,7 @@ defaults:
 collections:
   pages:
     output: true
+    permalink: /:collection/:path
   games:
     output: true
   behavior:
