@@ -1,8 +1,7 @@
 ---
 title: Games
 layout: collection
-permalink: /games/
-collection: portfolio
+collection: games
 entries_layout: grid
 classes: wide
 ---
@@ -23,5 +22,4 @@ In short, we need to show our humans how to play proper games! You want your hum
 - Olfactory function has remarkably low development in your human's brain, unlike ours - where it takes almost 40% (translation: humans have near zero ability to tell how many dogs were near this pole)
 
 
-## Game List
-- [Look up](/games/lookup)
+
