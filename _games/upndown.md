@@ -1,6 +1,10 @@
 ---
 title: Up'n'down game
 excerpt: Simple pattern game with treats and no words
+
+header:
+  teaser: /media/games/dog-looks-up.jpg
+
 ---
 
 
