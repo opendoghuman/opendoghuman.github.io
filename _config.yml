@@ -12,8 +12,9 @@ defaults:
     values:
       layout: single
 
-include: ["_pages"]
 collections:
+  pages:
+    output: true
   games:
     output: true
   behavior:
