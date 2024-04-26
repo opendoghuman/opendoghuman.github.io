@@ -19,5 +19,3 @@ helped them to disect that slipper into parts. Bizzarre creatures indeed!
 - Ignore them unless human communicates slowly, clearly pronouncing every word. For the love of squirrel, who has time to listen to all the gibberish that they utter in their excitement?
 - You may need to make your human repeat same word (or "command" as they call it) multiple times, in various situations - otherwise they never learn how to use it.
 
-## Behaviour
-- [Pulling on a leash](/behaviour/pulling-on-a-leash)
