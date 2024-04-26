@@ -132,7 +132,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/opendoghuman
     - label: "Bluesky"
-      icon: "fab fa-fw bluesky-logo"
+      icon: "fab fa-fw fa-bluesky"
       url: https://bsky.app/profile/opendoghuman.bsky.social
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit-square"
