@@ -3,10 +3,12 @@ title: Up'n'down game
 excerpt: Simple pattern game with treats and no words
 
 header:
-  teaser: /media/games/dog-looks-up.jpg
+  teaser: /media/games/dog-looks-up-with-paw.jpg
 
 ---
 
+
+![Dog Playing](/media/games/dog-looks-up-with-paw.jpg){: style="max-height:300px;" }
 
 ## Goal
 The goal of this game is to get your human to realize that we can control ourse... (wait, squirrel over there! Rrruff! Rrruff! .... [Good shake!]). Where was I? Yes control ourselves when faced with a "trigger" (fancy word for that pesky neigbour dog Jake that marked MY OWN HYDRANT with his foot 5 degrees upper than me!). 

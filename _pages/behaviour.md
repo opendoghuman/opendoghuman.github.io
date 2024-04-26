@@ -8,7 +8,7 @@ permalink: /behaviour
 Every now and then our humans exhibit trully puzzling behaviour. Pulling me back when I am trying to put my paws on that pesky squirrel. Shouting at me when I 
 helped them to disect that slipper into parts. Bizzarre creatures indeed!
 
-## General guidelines
+## How to
 
 - Do not panic
 - Encourage your human to speak in a gentle, firm voice
