@@ -1,6 +1,10 @@
 ---
 title: Behaviour
 permalink: /behaviour
+layout: collection
+collection: behaviour
+entries_layout: grid
+classes: wide
 ---
 
 ![Dog Teaching Human](/media/dog-pulling-leash.jpg){: style="max-height:300px;" }
