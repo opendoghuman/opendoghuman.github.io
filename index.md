@@ -19,13 +19,13 @@ feature_row:
     url: "/games"
   - image_path: /media/dog-pulling-leash.jpg
     title: "Behaviour"
-    excerpt: "How you can improve behaviour of your human"
+    excerpt: "Improve behaviour of your human"
     btn_label: "Paw it 🐾"
     btn_class: "btn--primary"
     url: "/behaviour"
   - image_path: /media/dog-sniffing-books.jpg
     title: "Resources"
-    excerpt: "Various interesting content to show to your human"
+    excerpt: "Things to show to your human"
     btn_label: "Sniff it 🐶"
     btn_class: "btn--primary"
     url: "/resources"
