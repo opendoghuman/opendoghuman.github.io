@@ -1,34 +1,34 @@
 ---
-title: "Welcome to the pack!"
-layout: splash
-permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /media/many-dogs-running.jpg
-excerpt: 'Welcome to my bark-tastic hub. 🦮 Stick around, fetch some fun, and let's make this the paw-fect place for all us friends to hang out. '
-# intro: 
-#   - excerpt: 'Welcome to the ultimate bark-tastic hub. Stick around, fetch some fun, and let's make this the paw-fect place for all us friends to hang out. '
-feature_row:
-  - image_path: /media/dog-human-play.jpg
-    title: "Games"
-    excerpt: "Games you can play with your human"
-    url: "/behavior"
-    btn_label: "Catch it 🦴"
-    btn_class: "btn--primary"
-    url: "/games"
-  - image_path: /media/dog-pulling-leash.jpg
-    title: "Behaviour"
-    excerpt: "How you can improve behaviour of your human"
-    btn_label: "Paw it 🐾"
-    btn_class: "btn--primary"
-    url: "/behaviour"
-  - image_path: /media/dog-sniffing-books.jpg
-    title: "Resources"
-    excerpt: "Various interesting content to show to your human"
-    btn_label: "Sniff it 🐶"
-    btn_class: "btn--primary"
-    url: "/resources"
+# title: "Welcome to the pack!"
+# layout: splash
+# permalink: /
+# header:
+#   overlay_color: "#000"
+#   overlay_filter: "0.5"
+#   overlay_image: /media/many-dogs-running.jpg
+# excerpt: 'Welcome to my bark-tastic hub. 🦮 Stick around, fetch some fun, and let's make this the paw-fect place for all us friends to hang out. '
+# # intro: 
+# #   - excerpt: 'Welcome to the ultimate bark-tastic hub. Stick around, fetch some fun, and let's make this the paw-fect place for all us friends to hang out. '
+# feature_row:
+#   - image_path: /media/dog-human-play.jpg
+#     title: "Games"
+#     excerpt: "Games you can play with your human"
+#     url: "/behavior"
+#     btn_label: "Catch it 🦴"
+#     btn_class: "btn--primary"
+#     url: "/games"
+#   - image_path: /media/dog-pulling-leash.jpg
+#     title: "Behaviour"
+#     excerpt: "How you can improve behaviour of your human"
+#     btn_label: "Paw it 🐾"
+#     btn_class: "btn--primary"
+#     url: "/behaviour"
+#   - image_path: /media/dog-sniffing-books.jpg
+#     title: "Resources"
+#     excerpt: "Various interesting content to show to your human"
+#     btn_label: "Sniff it 🐶"
+#     btn_class: "btn--primary"
+#     url: "/resources"
 
 # feature_row2:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -56,9 +56,11 @@ feature_row:
 #     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+Hello world!
 
-{% include feature_row %}
+<!-- {% include feature_row id="intro" type="center" %}
+
+{% include feature_row %} -->
 
 <!--{% include feature_row id="feature_row2" type="left" %}
 
