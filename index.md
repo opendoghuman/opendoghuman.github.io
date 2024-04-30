@@ -5,9 +5,9 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /media/many-dogs-running-forest.jpg
+  overlay_image: /media/many-dogs-running.jpg
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Welcome to '
 feature_row:
   - image_path: /media/dog-human-play.jpg
     title: "Games"
@@ -22,6 +22,7 @@ feature_row:
   - image_path: /media/dog-sniffing-books.jpg
     title: "Resources"
     excerpt: "Various interesting content to show to your human"
+
 # feature_row2:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
@@ -50,9 +51,9 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-<!-- {% include feature_row %}
+{% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+<!--{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
