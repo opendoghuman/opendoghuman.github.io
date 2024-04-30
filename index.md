@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /media/many-dogs-running.jpg
-excerpt: 'Welcome to my bark-tastic hub. 🦮 Stick around, fetch some fun, and let's make this the paw-fect place for all us friends to hang out. '
+  excerpt: 'Welcome to my bark-tastic hub. 🦮 Stick around, fetch some fun, and let's make this the paw-fect place for all us friends to hang out. '
 # # intro: 
 # #   - excerpt: 'Welcome to the ultimate bark-tastic hub. Stick around, fetch some fun, and let's make this the paw-fect place for all us friends to hang out. '
 # feature_row:
