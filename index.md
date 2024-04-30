@@ -1,7 +1,6 @@
 ---
 title: "Welcome to the pack!"
 layout: splash
-permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
