@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /media/many-dogs-running.jpg
-excerpt: 'Welcome to my bark-tastic hub. 🦮 Stick around, fetch some fun, and let's make this the paw-fect place for all us friends to hang out. '
+tagline: 'Welcome to my bark-tastic hub. 🦮 Stick around, fetch some fun, and let's make this the paw-fect place for all us friends to hang out. '
 # # intro: 
 # #   - excerpt: 'Welcome to the ultimate bark-tastic hub. Stick around, fetch some fun, and let's make this the paw-fect place for all us friends to hang out. '
 # feature_row:
@@ -56,12 +56,12 @@ excerpt: 'Welcome to my bark-tastic hub. 🦮 Stick around, fetch some fun, and 
 ---
 
 
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
 
 Hello world!
 
 
-<!--{% include feature_row %} -->
+{% include feature_row %}
 
 <!--{% include feature_row id="feature_row2" type="left" %}
 
