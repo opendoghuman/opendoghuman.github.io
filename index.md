@@ -25,7 +25,7 @@ feature_row:
     url: "/behaviour"
   - image_path: /media/dog-sniffing-books.jpg
     title: "Resources"
-    excerpt: "Things to show to your human"
+    excerpt: "Things to show your human"
     btn_label: "Sniff it 🐶"
     btn_class: "btn--primary"
     url: "/resources"

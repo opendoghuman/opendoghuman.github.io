@@ -1,7 +1,7 @@
 ---
 title: Pulling on a leash
 excerpt: Various methods to help with pulling
-
+description: How to stop pulling leash, leash training
 header:
   teaser: /media/behavior/dog-pulling-man.jpg
 
@@ -25,9 +25,14 @@ Also why are we not moving? Lets check back and see what is that human doing - i
 Alright I'll give her a slack, step back a bit - less tension on the neck this way.
 
 
-# Gentle leader
+# Turn around 
 
-Some humans never learn. I mean there is so much going on out here, and I only have 0.5h to check out the news, catch that squirrel and leave my mark on that tree. 
+I leave in the moment! If I see it and it's close enough, I definitiely wants to get it. Now!! Are we getting close to something exciting? Let's get closer, hooman! 
 
-Consider this a time management advice. To remind us what we should focus on - human needs to get walked. Tired human is a good human!
+I also can get easily distracted, by... can you guess... my favourite treat! Get human to get that treat out of their pocketses and let's do a U-turn on the spot. (Your human may feel weird at first doing you turn on the street, that's ok - practice makes perfect).
+
+Ok, turned? Let's walk few steps. Get to some distance where I can enjoy my treat uninterrupted. 
+
+Get your human repeat many times in different situations. Learn them that corner of the street, tree in the park or the doorr of that shop are completely different situations (and each deserve their own treat).
+
 
