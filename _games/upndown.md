@@ -19,15 +19,16 @@ Alrrright.
 
 ## Stage 1: Quiet room. 
 
-a. Get the human to grab your favourite treats. 
-b. Make them stand like a fool in the middle of room and wait for you. If they say anything don't pay any attention. Pretend you are sniffing under the sofa. This is a quiet exercise.
-c. Hmm... that treat smells good. Maybe look at them once. (Why are my eyes getting big?)
-d. Human puts the treat on the floor. 
-e. You come close and grab it. Walk away.
-f. Make the human exercise, nudge them to throw it at random direction. 
-g. Pick it up with dignity. 
-h. Stare at them again. (keep the eye contact to keep things under control) 
-i, Keep the treats coming, human!
+
+1. Get the human to grab your favourite treats.
+2. Make them stand like a fool in the middle of room and wait for you. If they say anything don't pay any attention. Pretend you are sniffing under the sofa. This is a quiet exercise.
+3. Hmm... that treat smells good. Maybe look at them once. (Why are my eyes getting big?)
+4. Human puts the treat on the floor. 
+5. You come close and grab it. Walk away.
+6. Make the human exercise, nudge them to throw it at random direction. 
+7. Pick it up with dignity. 
+8. Stare at them again. (keep the eye contact to keep things under control) 
+9. Keep the treats coming, human!
 
 Make them repeat multiple times, by ignoring them every other turn - especially if they start talking. You can't make them feel it's easy. Resist the call of treat.
 
