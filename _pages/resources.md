@@ -17,7 +17,12 @@ Even though humans generally have very little understanding of what we dogs are 
 - Dog Lovers Companion By Paul McGreevy [Library Link](https://openlibrary.org/works/OL29309074W/Dog_Lover%27s_Companion)
 - Imagine life with a well-behaved dog by Julie A. Bjelland [Library Link](https://vaughanpl.bibliocommons.com/v2/record/S130C113828)
 
-## Videos
+## Dogs point of view
+
+- [What the world looks like from a dog's perspective](https://www.youtube.com/watch?v=u0jY8YdskWA)
+- [How Dogs See The World — And It's More Than Black And White](https://www.youtube.com/watch?v=A0_uj_Fglys)
+
+## Videos from Trainers
 - [Youtube: The Brainy Canine](https://www.youtube.com/channel/UCRIrCCMsiUFESDfqryODeKg)
 - [Youtube: Drop the Leash](https://www.youtube.com/@DroptheLeash)
 - [Youtube: Zak George’s Dog Training Revolution](https://www.youtube.com/@zakgeorge)

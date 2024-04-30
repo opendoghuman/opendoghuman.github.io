@@ -9,10 +9,11 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single      
   - scope:
       path: ""
       type: games
+      share: true
     values:
       layout: single
   - scope:
