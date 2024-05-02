@@ -35,7 +35,7 @@ Ok, turned? Let's walk few steps. Get to some distance where I can enjoy my trea
 
 Stay positive, make it a game. As soon as my ears are up, that's the good time to act. Especially if approaching other dog friend, let the human forward and let them think they are leading (they like to feel important; plus you will be more relaxed - we are not trying to protect human, we feel it's the other way around).
 
-Get your human repeat many times in different situations.  Playfully shuffle back or aside. Also Learn them that corner of the street, tree in the park or the doorr of that shop are completely different situations (and each deserve their own treat).
+Get your human repeat many times in different situations.  Playfully shuffle back or aside. Learn them that corner of the street, tree in the park or the doorr of that shop are completely different situations (and each deserve their own treat).
 
 
 
