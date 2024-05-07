@@ -1,14 +1,13 @@
 ---
 title: Look at that
 excerpt: Running in opposite direction from trigger eases our minds 
-
+description: how to stop dog from barking
 header:
   teaser: /media/games/dog-look-at-that.jpg
 --- 
 
 ![Dog Looking](/media/games/dog-look-at-that.jpg){: style="max-height:300px;" }
 
-# Dog to dogs point of view
 
 Alright, furrends! Get your human off the sofa and lets level up our playtime.
 
@@ -16,6 +15,8 @@ This is especially useful to my furry friends that humans may call "reactive" (y
 
 
 We will need basic equipment: bunch of good, high value treats (always!) and human on other end for good measure. Doing this exercise will allow you to take a moment before lounging forward to your personal trigger, think whether it's worth it and train your human another way of increasing our treat supply.
+
+# Mechanics
 
 Step 1: Leash up and get those treat bags ready in humans hand. When the human tosses that tasty snack just outta reach, resist the urge to go full speed ahead. Trust me, you won't get it, but that's part of the fun! After a bit of drooling and pleading with those big puppy eyes, they'll cave and let you snag it.
 
@@ -57,6 +58,6 @@ repeat 3-4 times per session
 
 
 ## Sources
-- [YouTube: Review/Synopsis - Laura Donaldson's 'Slow Thinking Is Lifesaving for Dogs' class: The Brainy Canine](https://www.youtube.com/watch?v=l3noLRrwkgU)
+- [YouTube: Review/Synopsis - Laura Donaldson's 'Slow Thinking Is Lifesaving for Dogs' class: The Brainy Canine 21:14](https://www.youtube.com/watch?v=l3noLRrwkgU)
 - The Language of Dogs By Justin Silver and David Donnenfeld [Library Link](https://vaughanpl.bibliocommons.com/v2/record/S130C181741)
 
