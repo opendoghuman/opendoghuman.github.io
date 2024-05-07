@@ -1,11 +1,10 @@
 ---
 title: Look at that
 excerpt: Running in opposite direction from trigger eases our minds 
----
 
 header:
   teaser: /media/games/dog-look-at-that.jpg
-- 
+--- 
 
 ![Dog Looking](/media/games/dog-look-at-that.jpg){: style="max-height:300px;" }
 
