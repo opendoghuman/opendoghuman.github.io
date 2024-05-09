@@ -6,7 +6,7 @@ header:
   teaser: /media/games/dog-playing-towel.jpg
 ---
 
-![](/media/dog-playing-towel.jpg){: style="max-height:300px;" }
+![](/media/games/dog-playing-towel.jpg){: style="max-height:300px;" }
 
 
 Here is another plan how  get those humans off their ~~tails~~ bums and into action. (Still can't figure out what happened to the tails of those poor humans, them trying to communicate with those awkward floppy noodles instead of a crisp wag?). 
