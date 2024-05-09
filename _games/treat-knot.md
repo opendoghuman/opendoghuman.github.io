@@ -9,9 +9,10 @@ header:
 ![](/media/dog-playing-towel.jpg){: style="max-height:300px;" }
 
 
-Here is another plan how  get those humans off their ~~tails~~ bums and into action. (Still can't figure out what happened to the tails of those poor humans, them trying to communicate with those awkward floppy noodles instead of a crisp wag?). So there I was, bored outta my mind while the human was glued to their chair, eyes glued to the glowing box they call a TeeVee (don't even get me started on that Fishing channel...).
+Here is another plan how  get those humans off their ~~tails~~ bums and into action. (Still can't figure out what happened to the tails of those poor humans, them trying to communicate with those awkward floppy noodles instead of a crisp wag?). 
 
-Here's how to get them moving and getting them a proper brain workout!
+
+So there I was, bored outta my mind while the human was glued to their chair, eyes glued to the glowing box they call a TeeVee (don't even get me started on that Fishing channel...). Here's how to get them moving and getting them a proper brain workout!
 
 Step 1: Grab them a small cloth towel, the kind humans use to wipe away their drool (weird, right?).
 Step 2: Show them how to load it up with your favorite treats (the ones that make your tail wag the fastest) right in the middle.
