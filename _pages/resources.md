@@ -32,10 +32,10 @@ Even though humans generally have very little understanding of what we dogs are 
 - [r/OpenDogTraining](https://www.reddit.com/r/OpenDogTraining/)
 
 # Friendly places
-- [Bring Fido](https://www.bringfido.ca/)
+- [Doggo friendly places](https://www.bringfido.ca/)
 
 # Food 
 - [Open Pet Food Facts](https://world.openpetfoodfacts.org/)
 
-## Funny
+# Funny
 - [Youtube: Egg Dog](https://www.youtube.com/watch?v=DFPdtdY-a_c)
