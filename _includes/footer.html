@@ -20,4 +20,10 @@
       <li></li>
     </ul>
   </div>  
-  <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>. No cookies for you here! <img src="media/icons/no-cookies.svg" width="45" height="45"></div>
+  <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>. 
+    No cookies for you here!   
+    <span class="fa-stack fa-2x">
+      <i class="fa-solid fa-cookie-bite fa-stack-1x"></i>
+      <i class="fa-solid fa-ban fa-stack-2x"></i>
+    </span>
+  </div>
