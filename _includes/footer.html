@@ -16,6 +16,9 @@
         <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
       {% endunless %}
     </ul>
+    <ul>
+      <li><img src="media/icons/no-cookies.svg" width="100" height="100" alt="This websites uses no cookies."></li>
+    </ul>
   </div>
   
   <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>.</div>
