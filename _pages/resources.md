@@ -22,6 +22,10 @@ Even though humans generally have very little understanding of what we dogs are 
 - [What the world looks like from a dog's perspective](https://www.youtube.com/watch?v=u0jY8YdskWA)
 - [How Dogs See The World — And It's More Than Black And White](https://www.youtube.com/watch?v=A0_uj_Fglys)
 
+# My body language
+- [What am I saying](https://guarddogblog.wordpress.com/2015/04/27/what-are-you-saying/)
+
+
 # Videos from Trainers
 - [Youtube: The Brainy Canine](https://www.youtube.com/channel/UCRIrCCMsiUFESDfqryODeKg)
 - [Youtube: Drop the Leash](https://www.youtube.com/@DroptheLeash)
