@@ -25,4 +25,22 @@
   {% endfor %}
 {% endif %}
 
-<div> Current page: {{page.url}} </div>
+<script type="text/javascript">    
+  var link = document.createElement( "link" );
+  let loc = new URL("{{site.cflr_analytics_url}}{{page.url}}");
+
+  loc.searchParams.append('blog_referrer', document.referrer);
+
+  const urlParams = new URLSearchParams(window.location.search);
+  urlParams.forEach((v, k) => {
+    loc.searchParams.append(k, v);
+  })
+
+  link.href = loc.toString()
+  link.rel = "stylesheet";
+
+  document.getElementsByTagName( "head" )[0].appendChild( link );
+</script>
+<noscript>
+  <link href="{{site.cflr_analytics_url}}{{page.url}}" rel="stylesheet">
+</noscript>

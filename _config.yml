@@ -72,6 +72,8 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
+cflr_analytics_url       : "https://a.opendoghuman.com"
+
 
 # Social Sharing
 twitter:
