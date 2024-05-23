@@ -42,4 +42,4 @@ Even though humans generally have very little understanding of what we dogs are 
 - [Open Pet Food Facts](https://world.openpetfoodfacts.org/)
 
 # Funny
-- [Youtube: Egg Dog White](https://www.youtube.com/watch?v=DFPdtdY-a_c)
+- [Youtube: Egg Dog](https://www.youtube.com/watch?v=DFPdtdY-a_c)
